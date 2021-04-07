@@ -1,2 +1,2 @@
 # Burger
-food site
+food website
